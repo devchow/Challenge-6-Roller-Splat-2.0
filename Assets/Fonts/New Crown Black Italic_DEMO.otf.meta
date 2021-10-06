@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 3e832cb6f56e85f48ba1fc0e8b0da117
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: New Crown
+  fontNames:
+  - New Crown
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 33cf8ae0f7451914e9a5f3ba806a06e4, type: 3}
+  - {fileID: 12800000, guid: 9373e27490a2a3e4fa54e854d3a4d4fd, type: 3}
+  - {fileID: 12800000, guid: 3892bce86e627a447b3e0f9403047e8e, type: 3}
+  - {fileID: 12800000, guid: d7d3cf69a26052244bf0658fee17b6ae, type: 3}
+  - {fileID: 12800000, guid: c2a2eec9e63e9214b9daf8efe1d3f9d4, type: 3}
+  - {fileID: 12800000, guid: f094632d6f449254fa460d558a59476d, type: 3}
+  - {fileID: 12800000, guid: 5598a07e22ba51c46831fe02d09cf332, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
